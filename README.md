@@ -18,7 +18,7 @@ Please refer to the official API documents for details.
 # Installation
 
 ```bash
-$ npm install linebot --save
+$ git clone https://github.com/deepakgd/linebot.git
 ```
 
 # Usage
